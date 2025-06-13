@@ -1,4 +1,8 @@
 ## Hi there 👋
+### 🔗 Connect with me
+
+- [LeetCode](https://leetcode.com/u/Ritikydv021/)
+- [LinkedIn](https://www.linkedin.com/in/ritik-yadav-a64246244)
 
 <!--
 **Ritikydv29/Ritikydv29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
